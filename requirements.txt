@@ -1,0 +1,7 @@
+click
+tqdm
+opencv-python
+pillow
+psutil
+colorama
+pywin32
